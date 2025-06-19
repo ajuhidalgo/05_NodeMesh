@@ -5,4 +5,5 @@
   (lib (name "EA7LAULogo2")(type "KiCad")(uri "${KIPRJMOD}/04_Libraries/02_Symbols/EA7LAULogo2.kicad_sym")(options "")(descr ""))
   (lib (name "RA-01H")(type "KiCad")(uri "${KIPRJMOD}/04_Libraries/02_Symbols/RA-01H.kicad_sym")(options "")(descr ""))
   (lib (name "BME280")(type "KiCad")(uri "${KIPRJMOD}/04_Libraries/02_Symbols/BME280.kicad_sym")(options "")(descr ""))
+  (lib (name "INA3221")(type "KiCad")(uri "${KIPRJMOD}/04_Libraries/02_Symbols/INA3221.kicad_sym")(options "")(descr ""))
 )
