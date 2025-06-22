@@ -6,4 +6,8 @@
   (lib (name "RA-01H")(type "KiCad")(uri "${KIPRJMOD}/04_Libraries/02_Symbols/RA-01H.kicad_sym")(options "")(descr ""))
   (lib (name "BME280")(type "KiCad")(uri "${KIPRJMOD}/04_Libraries/02_Symbols/BME280.kicad_sym")(options "")(descr ""))
   (lib (name "INA3221")(type "KiCad")(uri "${KIPRJMOD}/04_Libraries/02_Symbols/INA3221.kicad_sym")(options "")(descr ""))
+  (lib (name "CN3791")(type "KiCad")(uri "${KIPRJMOD}/04_Libraries/02_Symbols/CN3791.kicad_sym")(options "")(descr ""))
+  (lib (name "AOD4185")(type "KiCad")(uri "${KIPRJMOD}/04_Libraries/02_Symbols/AOD4185.kicad_sym")(options "")(descr ""))
+  (lib (name "RBR5LAM30ATFTR")(type "KiCad")(uri "${KIPRJMOD}/04_Libraries/02_Symbols/RBR5LAM30ATFTR.kicad_sym")(options "")(descr ""))
+  (lib (name "SMAJPHRATH1")(type "KiCad")(uri "${KIPRJMOD}/04_Libraries/02_Symbols/SMAJPHRATH1.kicad_sym")(options "")(descr ""))
 )

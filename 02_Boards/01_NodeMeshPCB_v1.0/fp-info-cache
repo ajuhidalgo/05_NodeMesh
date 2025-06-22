@@ -1,4 +1,11 @@
-26170850368802733
+26177852805416362
+01_Footprints
+AOD4185
+
+AOD4185 
+0
+3
+3
 01_Footprints
 BME280
 2.5 mm x 2.5 mm x 0.93 mm metal lid LGA
@@ -6,6 +13,13 @@ BME280
 0
 8
 8
+01_Footprints
+CN3791
+
+
+0
+10
+10
 01_Footprints
 EA7LAULogo
 
@@ -34,6 +48,20 @@ RA-01H
 0
 16
 16
+01_Footprints
+RBR5LAM30ATFTR
+
+RBR5LAM30ATFTR 
+0
+2
+2
+01_Footprints
+SMAJPHRATH1
+SMA-J-P-H-RA-TH1-1
+Connector
+0
+5
+5
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
