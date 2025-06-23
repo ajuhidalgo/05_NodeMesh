@@ -1,4 +1,4 @@
-26177852805416362
+26184805692312560
 01_Footprints
 AOD4185
 
@@ -6,6 +6,13 @@ AOD4185
 0
 3
 3
+01_Footprints
+B2B-PH-K-S
+
+
+0
+2
+2
 01_Footprints
 BME280
 2.5 mm x 2.5 mm x 0.93 mm metal lid LGA
@@ -21,6 +28,13 @@ CN3791
 10
 10
 01_Footprints
+DMP3099L-7
+SOT23 (Standard)
+MOSFET (P-Channel)
+0
+3
+3
+01_Footprints
 EA7LAULogo
 
 
@@ -34,6 +48,13 @@ EA7LAULogo2
 0
 0
 0
+01_Footprints
+JS102011SAQN
+
+
+0
+3
+3
 01_Footprints
 NodeMeshLogo
 
@@ -62,6 +83,13 @@ Connector
 0
 5
 5
+01_Footprints
+TLV1117LV33DCYR
+TLV1117LV33DCYR
+Integrated Circuit
+0
+4
+3
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)

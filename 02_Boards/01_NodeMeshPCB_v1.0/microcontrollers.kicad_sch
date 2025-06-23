@@ -778,7 +778,7 @@
 		(at 25.4 25.4 0)
 		(effects
 			(font
-				(size 3.81 3.81)
+				(size 4 4)
 				(bold yes)
 			)
 			(justify left bottom)

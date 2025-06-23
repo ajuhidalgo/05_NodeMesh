@@ -10,4 +10,8 @@
   (lib (name "AOD4185")(type "KiCad")(uri "${KIPRJMOD}/04_Libraries/02_Symbols/AOD4185.kicad_sym")(options "")(descr ""))
   (lib (name "RBR5LAM30ATFTR")(type "KiCad")(uri "${KIPRJMOD}/04_Libraries/02_Symbols/RBR5LAM30ATFTR.kicad_sym")(options "")(descr ""))
   (lib (name "SMAJPHRATH1")(type "KiCad")(uri "${KIPRJMOD}/04_Libraries/02_Symbols/SMAJPHRATH1.kicad_sym")(options "")(descr ""))
+  (lib (name "DMP3099L-7")(type "KiCad")(uri "${KIPRJMOD}/04_Libraries/02_Symbols/DMP3099L-7.kicad_sym")(options "")(descr ""))
+  (lib (name "B2B-PH-K-S")(type "KiCad")(uri "${KIPRJMOD}/04_Libraries/02_Symbols/B2B-PH-K-S.kicad_sym")(options "")(descr ""))
+  (lib (name "JS102011SAQN")(type "KiCad")(uri "${KIPRJMOD}/04_Libraries/02_Symbols/JS102011SAQN.kicad_sym")(options "")(descr ""))
+  (lib (name "TLV1117LV33DCYR")(type "KiCad")(uri "${KIPRJMOD}/04_Libraries/02_Symbols/TLV1117LV33DCYR.kicad_sym")(options "")(descr ""))
 )
