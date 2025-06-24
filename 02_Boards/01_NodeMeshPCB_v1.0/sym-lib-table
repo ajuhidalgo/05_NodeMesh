@@ -14,4 +14,5 @@
   (lib (name "B2B-PH-K-S")(type "KiCad")(uri "${KIPRJMOD}/04_Libraries/02_Symbols/B2B-PH-K-S.kicad_sym")(options "")(descr ""))
   (lib (name "JS102011SAQN")(type "KiCad")(uri "${KIPRJMOD}/04_Libraries/02_Symbols/JS102011SAQN.kicad_sym")(options "")(descr ""))
   (lib (name "TLV1117LV33DCYR")(type "KiCad")(uri "${KIPRJMOD}/04_Libraries/02_Symbols/TLV1117LV33DCYR.kicad_sym")(options "")(descr ""))
+  (lib (name "XB8089D0")(type "KiCad")(uri "${KIPRJMOD}/04_Libraries/02_Symbols/XB8089D0.kicad_sym")(options "")(descr ""))
 )
