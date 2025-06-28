@@ -3,7 +3,6 @@
   (lib (name "NodeMeshLogo")(type "KiCad")(uri "${KIPRJMOD}/04_Libraries/02_Symbols/NodeMeshLogo.kicad_sym")(options "")(descr ""))
   (lib (name "EA7LAU_Logo")(type "KiCad")(uri "${KIPRJMOD}/04_Libraries/02_Symbols/EA7LAU_Logo.kicad_sym")(options "")(descr ""))
   (lib (name "EA7LAULogo2")(type "KiCad")(uri "${KIPRJMOD}/04_Libraries/02_Symbols/EA7LAULogo2.kicad_sym")(options "")(descr ""))
-  (lib (name "RA-01H")(type "KiCad")(uri "${KIPRJMOD}/04_Libraries/02_Symbols/RA-01H.kicad_sym")(options "")(descr ""))
   (lib (name "BME280")(type "KiCad")(uri "${KIPRJMOD}/04_Libraries/02_Symbols/BME280.kicad_sym")(options "")(descr ""))
   (lib (name "INA3221")(type "KiCad")(uri "${KIPRJMOD}/04_Libraries/02_Symbols/INA3221.kicad_sym")(options "")(descr ""))
   (lib (name "CN3791")(type "KiCad")(uri "${KIPRJMOD}/04_Libraries/02_Symbols/CN3791.kicad_sym")(options "")(descr ""))
@@ -16,4 +15,5 @@
   (lib (name "TLV1117LV33DCYR")(type "KiCad")(uri "${KIPRJMOD}/04_Libraries/02_Symbols/TLV1117LV33DCYR.kicad_sym")(options "")(descr ""))
   (lib (name "XB8089D0")(type "KiCad")(uri "${KIPRJMOD}/04_Libraries/02_Symbols/XB8089D0.kicad_sym")(options "")(descr ""))
   (lib (name "NDS355AN")(type "KiCad")(uri "${KIPRJMOD}/04_Libraries/02_Symbols/NDS355AN.kicad_sym")(options "")(descr ""))
+  (lib (name "HT-RA62")(type "KiCad")(uri "${KIPRJMOD}/04_Libraries/02_Symbols/HT-RA62.kicad_sym")(options "")(descr ""))
 )
