@@ -1,4 +1,4 @@
-25635704029420669
+25640957463339827
 01_Footprints
 AOD4185
 
@@ -49,12 +49,33 @@ EA7LAULogo2
 0
 0
 01_Footprints
+ESP32-C6-MINI-1U-H4
+
+
+0
+61
+61
+01_Footprints
+HT-RA62
+
+
+0
+16
+16
+01_Footprints
 JS102011SAQN
 
 
 0
 3
 3
+01_Footprints
+LC76GABMD
+
+LC76GABMD 
+0
+28
+28
 01_Footprints
 NDS355AN
 
@@ -63,19 +84,19 @@ NDS355AN
 3
 3
 01_Footprints
+NRF52840-QIAA-R
+
+
+0
+90
+90
+01_Footprints
 NodeMeshLogo
 
 
 0
 0
 0
-01_Footprints
-RA-01H
-
-
-0
-16
-16
 01_Footprints
 RBR5LAM30ATFTR
 

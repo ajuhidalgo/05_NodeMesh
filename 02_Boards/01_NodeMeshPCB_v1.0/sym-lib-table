@@ -16,4 +16,7 @@
   (lib (name "XB8089D0")(type "KiCad")(uri "${KIPRJMOD}/04_Libraries/02_Symbols/XB8089D0.kicad_sym")(options "")(descr ""))
   (lib (name "NDS355AN")(type "KiCad")(uri "${KIPRJMOD}/04_Libraries/02_Symbols/NDS355AN.kicad_sym")(options "")(descr ""))
   (lib (name "HT-RA62")(type "KiCad")(uri "${KIPRJMOD}/04_Libraries/02_Symbols/HT-RA62.kicad_sym")(options "")(descr ""))
+  (lib (name "ESP32-C6-MINI-1U-H4")(type "KiCad")(uri "${KIPRJMOD}/04_Libraries/02_Symbols/ESP32-C6-MINI-1U-H4.kicad_sym")(options "")(descr ""))
+  (lib (name "NRF52840-QIAA-R")(type "KiCad")(uri "${KIPRJMOD}/04_Libraries/02_Symbols/NRF52840-QIAA-R.kicad_sym")(options "")(descr ""))
+  (lib (name "LC76GABMD")(type "KiCad")(uri "${KIPRJMOD}/04_Libraries/02_Symbols/LC76GABMD.kicad_sym")(options "")(descr ""))
 )
