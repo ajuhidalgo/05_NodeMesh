@@ -5,7 +5,7 @@
 	(layer "F.Cu")
 	(tags "AOD4185 ")
 	(property "Reference" "REF**"
-		(at 0 0 0)
+		(at 0 -6 0)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "07667c1c-53fd-47ef-8721-3f650a133cf0")
